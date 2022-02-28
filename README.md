@@ -1,4 +1,4 @@
-<h1 align="center" > Minimal APi Auth </h1>
+<h1 align="center" > APi Auth </h1>
 <h2 align="center">
     <a href="https://docs.microsoft.com/en-us/aspnet/core/security/authentication/?view=aspnetcore-6.0">🔗 Overview of ASP.NET Core authentication</a>
 </h2>
